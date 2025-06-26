@@ -718,7 +718,7 @@ sing_box_inbound_proxy() {
                 "tag": "dns-in",
                 "type": "direct",
                 "listen": "127.0.0.42",
-                "listen_port": 53
+                "listen_port": 54
             }
         ],
         "outbounds": [
